@@ -1,6 +1,6 @@
 # SAWtronics
 
-![SAWtronics Logo](https://www.sawtronics.cz/wp-content/uploads/2016/11/5.png)
+![SAWtronics Logo](/images/logo01.jpg)
 
 Svěží a profesionální tým zaměřený na vývoj embedded systémů.
 
