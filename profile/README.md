@@ -1,6 +1,6 @@
 # SAWtronics
 
-![SAWtronics Logo](/images/logo01.jpg)
+![SAWtronics Logo](https://github.com/SAWtronics/.github/blob/7701ee7c3728597f16c8f47e013247ebe722b1f1/images/Logo01.jpg)
 
 Svěží a profesionální tým zaměřený na vývoj embedded systémů.
 
